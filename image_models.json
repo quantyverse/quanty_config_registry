@@ -12,7 +12,7 @@
       {"label": "Midjourney V6.1", "model": "midjourney:2@1", "width": 1024, "height": 1024},
       {"label": "Midjourney V7", "model": "midjourney:3@1", "width": 1024, "height": 1024},
       {"label": "Nano Banana 2 Pro", "model": "google:4@2", "width": 1024, "height": 1024},
-      {"label": "Nano Banana 2", "model": "google:4@1", "width": 1024, "height": 1024},
+      {"label": "Nano Banana 1", "model": "google:4@1", "width": 1024, "height": 1024},
       {"label": "Imagen 4 Preview", "model": "google:2@1", "width": 1024, "height": 1024},
       {"label": "Imagen 4 Ultra", "model": "google:2@2", "width": 1024, "height": 1024},
       {"label": "Imagen 4 Fast", "model": "google:2@3", "width": 1024, "height": 1024},
