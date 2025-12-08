@@ -1,5 +1,5 @@
 {
     "models": [
-      {"label": "Pixverse V5.5", "model": "pixverse:1@6", "width": 1024, "height": 1024},
+      {"label": "Pixverse V5.5", "model": "pixverse:1@6", "width": 1024, "height": 1024}
     ]
   }
