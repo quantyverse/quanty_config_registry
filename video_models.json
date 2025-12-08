@@ -1,5 +1,44 @@
 {
-    "models": [
-      {"label": "Pixverse V5.5", "model": "pixverse:1@6", "width": 1024, "height": 1024}
-    ]
-  }
+  "models": [
+    {"label": "PixVerse v5.5", "model": "pixverse:1@6", "width": 1280, "height": 720},
+    {"label": "PixVerse v5", "model": "pixverse:1@5", "width": 1280, "height": 720},
+    {"label": "PixVerse v4.5", "model": "pixverse:1@3", "width": 1280, "height": 720},
+    {"label": "PixVerse LipSync", "model": "pixverse:lipsync@1", "width": 1280, "height": 720},
+    {"label": "Google Veo 3", "model": "google:3@0", "width": 1280, "height": 720},
+    {"label": "Google Veo 3 Fast", "model": "google:3@1", "width": 1280, "height": 720},
+    {"label": "Google Veo 3.1", "model": "google:3@2", "width": 1280, "height": 720},
+    {"label": "Google Veo 3.1 Fast", "model": "google:3@3", "width": 1280, "height": 720},
+    {"label": "Sora 2", "model": "openai:3@1", "width": 1280, "height": 720},
+    {"label": "Sora 2 Pro", "model": "openai:3@2", "width": 1280, "height": 720},
+    {"label": "Runway Gen-4 Turbo", "model": "runway:1@1", "width": 1280, "height": 720},
+    {"label": "Runway Aleph", "model": "runway:2@1", "width": 1280, "height": 720},
+    {"label": "KlingAI 1.6 Standard", "model": "klingai:3@1", "width": 1280, "height": 720},
+    {"label": "KlingAI 1.6 Pro", "model": "klingai:3@2", "width": 1280, "height": 720},
+    {"label": "KlingAI 2.0 Master", "model": "klingai:4@3", "width": 1280, "height": 720},
+    {"label": "KlingAI 2.1 Standard", "model": "klingai:5@1", "width": 1280, "height": 720},
+    {"label": "KlingAI 2.1 Pro", "model": "klingai:5@2", "width": 1280, "height": 720},
+    {"label": "KlingAI 2.1 Master", "model": "klingai:5@3", "width": 1280, "height": 720},
+    {"label": "KlingAI 2.5 Turbo Standard", "model": "klingai:6@0", "width": 1280, "height": 720},
+    {"label": "KlingAI 2.5 Turbo Pro", "model": "klingai:6@1", "width": 1280, "height": 720},
+    {"label": "MiniMax 01 Director", "model": "minimax:2@1", "width": 1280, "height": 720},
+    {"label": "MiniMax 02 Hailuo", "model": "minimax:3@1", "width": 1280, "height": 720},
+    {"label": "MiniMax Hailuo 2.3", "model": "minimax:4@1", "width": 1280, "height": 720},
+    {"label": "MiniMax Hailuo 2.3 Fast", "model": "minimax:4@2", "width": 1280, "height": 720},
+    {"label": "Seedance 1.0 Lite", "model": "bytedance:1@1", "width": 1280, "height": 720},
+    {"label": "Seedance 1.0 Pro", "model": "bytedance:2@1", "width": 1920, "height": 1080},
+    {"label": "Seedance 1.0 Pro Fast", "model": "bytedance:2@2", "width": 1920, "height": 1080},
+    {"label": "OmniHuman-1", "model": "bytedance:5@1", "width": 1280, "height": 720},
+    {"label": "OmniHuman-1.5", "model": "bytedance:5@2", "width": 1280, "height": 720},
+    {"label": "LTX-2 Pro", "model": "lightricks:2@0", "width": 1280, "height": 720},
+    {"label": "LTX-2 Fast", "model": "lightricks:2@1", "width": 1280, "height": 720},
+    {"label": "LTX-2 Retake", "model": "lightricks:3@1", "width": 1280, "height": 720},
+    {"label": "Vidu Q1", "model": "vidu:1@1", "width": 1280, "height": 720},
+    {"label": "Vidu Q2 Pro", "model": "vidu:3@1", "width": 1280, "height": 720},
+    {"label": "Vidu Q2 Turbo", "model": "vidu:3@2", "width": 1280, "height": 720},
+    {"label": "Wan2.2 A14B", "model": "runware:200@6", "width": 1280, "height": 720},
+    {"label": "Wan2.2 A14B Turbo", "model": "runware:200@8", "width": 1280, "height": 720},
+    {"label": "Wan2.5-Preview", "model": "runware:201@1", "width": 1280, "height": 720},
+    {"label": "Ovi", "model": "runware:190@1", "width": 1280, "height": 720}
+  ]
+}
+
